@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#drop-down {
+    margin-top: 30px;
+    display: none;
+}
+
+#activity, #activity-pick, #target_select {
+    padding: 10px 15px;
+    font-size: 22px;
+}
